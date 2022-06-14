@@ -1,0 +1,30 @@
+[
+	{
+		"columnNumber": 0,
+		"era": "Ancient era",
+		"techCost": 20,
+		"buildingCost": 40,
+		"techs": [
+			{
+				"name": "Agriculture",
+				"row": 2,
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"uniques": ["Starting tech","Can be continually researched","Everyone has decided that life is as good as it can get - no more hunter-gathers, farms are the future..."]
+			}
+		]
+	},
+    {
+		"columnNumber": 1,
+		"era": "Ancient era",
+		"techCost": 99999999,
+		"buildingCost": 40,
+		"techs": [
+			{
+				"name": "",
+                "quote": "I TOLD YOU, FARMS ARE THE FUTURE.",
+                "row": 2,
+				"uniques": ["Can be continually researched","Everyone has decided that life is as good as it can get - no more hunter-gathers, farms are the future..."]
+			}
+		]
+	}
+]
