@@ -9,7 +9,7 @@
 				"name": "Agriculture",
 				"row": 2,
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
-				"uniques": ["Starting tech","Can be continually researched","Everyone has decided that life is as good as it can get - no more hunter-gathers, farms are the future..."]
+				"uniques": ["Everyone has decided that life is as good as it can get - no more hunter-gathers, farms are the future...","Starting tech","Can be continually researched"]
 			}
 		]
 	},
@@ -23,7 +23,7 @@
 				"name": "",
                 "quote": "I TOLD YOU, FARMS ARE THE FUTURE.",
                 "row": 2,
-				"uniques": ["Can be continually researched","Everyone has decided that life is as good as it can get - no more hunter-gathers, farms are the future..."]
+				"uniques": ["This only exists because the game crashes if you only have 1 tech"]
 			}
 		]
 	}
